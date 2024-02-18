@@ -1,5 +1,5 @@
 # osu!Profile
-osu!Profile is a little program for helping you to see your progress in the ranking (if you're not very attentive and miss how many rank you've just passed when you finished a map), also allow you to export these data into files and importing them into your livestream with OBS or XSplit!
+osu!Profile is a little program for helping you to see your progress in the ranking (if you're not very attentive and miss how many rank you've just passed when you finished a map), also allow you to export these data into files and importing them into your livestream with OBS or XSplit! Forked and changed the commands for total S-ranks and S-ranks difference to not be the same as total ranked score and ranked score difference. :D
 
 ## Features
 - Shows your stats or these of any people
